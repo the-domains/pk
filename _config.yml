@@ -1,6 +1,6 @@
 name: PK
 favicon: null
-layout_spectrum: 0.7126421842258424
+layout_spectrum: 0.75286
 typography_spectrum: 0.1735456446185708
 title: PK Rasam
 cta:
@@ -17,7 +17,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.4259312213398516
+  brandStrength: 0.5
   lightness: 0.1903599053621292
   saturation: 0.028121870243921876
   rhythmicContrast: 0.019278069026768208

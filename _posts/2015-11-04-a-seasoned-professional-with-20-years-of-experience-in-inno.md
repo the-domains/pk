@@ -6,24 +6,11 @@ isBasedOnUrl: 'https://www.linkedin.com/in/pkrasam'
 inLanguage: null
 starred: false
 keywords: []
-description: Management
-datePublished: '2015-11-04T02:24:34.444Z'
-dateModified: '2015-11-04T02:23:47.274Z'
+description: 'Adventurist, Author, Founder, Advisor, H-H-H, Angel'
+datePublished: '2015-11-04T02:36:04.626Z'
+dateModified: '2015-11-04T02:26:58.265Z'
 author: []
-title: >-
-  A seasoned professional with 20+ years of experience in Innovation, Product
-  Design, Entrepreneurship, Consulting, Management, Program Delivery, Strategic
-  Guidance.
-
-
-
-  Including Global Experience in...
-
-  - Project Management
-
-  - Budget Management
-
-  - Business Sta
+title: PK
 authors: []
 publisher:
   name: linkedin.com

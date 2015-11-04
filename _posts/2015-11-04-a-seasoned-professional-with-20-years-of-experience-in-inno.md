@@ -1,16 +1,15 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.linkedin.com/in/pkrasam'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Adventurist, Author, Founder, Advisor, H-H-H, Angel'
-datePublished: '2015-11-04T02:36:04.626Z'
-dateModified: '2015-11-04T02:26:58.265Z'
+datePublished: '2015-11-04T03:09:06.997Z'
+dateModified: '2015-11-04T03:08:53.932Z'
 author: []
-title: PK
+title: Startup Advisor and Corporate Innovation at BlueChilli Group
 authors: []
 publisher:
   name: linkedin.com
@@ -19,11 +18,12 @@ publisher:
   favicon: null
 sourcePath: _posts/2015-11-04-a-seasoned-professional-with-20-years-of-experience-in-inno.md
 published: true
+url: startup-advisor-and-corporate-innovation-at-bluechilli-group/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-> Startup Advisor and Corporate Innovation at BlueChilli Group
+# Startup Advisor and Corporate Innovation at BlueChilli Group
 
 A seasoned professional with 20+ years of experience in Innovation, Product Design, Entrepreneurship, Consulting, Management, Program Delivery, Strategic Guidance.
 Including Global Experience in... 

@@ -1,25 +1,46 @@
-typography_spectrum: 0.1735456446185708
-color:
-  brandColors: []
-  brandStrength: 0.5
-  lightness: 0.1903599053621292
-  saturation: 0.028121870243921876
-  rhythmicContrast: 0.019278069026768208
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.75286
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: PK
+name: ebtc
+analytics: {}
+purpose:
+  - type: external
+    url: 'http://bit.ly/pk_twitter'
+    label: tweet_pk
+  - type: contact
+    url: 'mailto:pkrasam@gmail.com'
+    label: email_pk
+github: true
+description: emerging Business Technology Czar
 cta:
-  domain: null
   bucket: null
   version: null
-favicon: null
-title: PK Rasam
-description: emerging Business Technology Czar
-purpose: []
+  domain: null
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.75286
+color:
+  lightness: 0.1903599053621292
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  saturation: 0.02812187024392188
+  brandStrength: 0.5
+  rhythmicContrast: 0.01927806902676821
+content_rating:
+  adult: false
+typography_spectrum: 0.1735456446185708
+opengraph: {}
+title: PK
